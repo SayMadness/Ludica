@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.2.7">
+  <diagram name="Página-1" id="YLvTf79UpHHfi2m8IHDP">
+    <mxGraphModel dx="1665" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="enaZohmAnqyDvhY4NEDX-3" edge="1" parent="1" source="enaZohmAnqyDvhY4NEDX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="enaZohmAnqyDvhY4NEDX-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="enaZohmAnqyDvhY4NEDX-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Download&lt;br&gt;CALM Template" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="enaZohmAnqyDvhY4NEDX-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Update &lt;br&gt;Valid Options&lt;br&gt;&amp;amp; CALM Context" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="enaZohmAnqyDvhY4NEDX-18" edge="1" parent="1" source="enaZohmAnqyDvhY4NEDX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="enaZohmAnqyDvhY4NEDX-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="enaZohmAnqyDvhY4NEDX-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Summarize&lt;br&gt;Project Context" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="enaZohmAnqyDvhY4NEDX-10" edge="1" parent="1" source="enaZohmAnqyDvhY4NEDX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="enaZohmAnqyDvhY4NEDX-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="enaZohmAnqyDvhY4NEDX-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Input&amp;nbsp;&lt;div&gt;Requirements Content&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="enaZohmAnqyDvhY4NEDX-17" edge="1" parent="1" source="enaZohmAnqyDvhY4NEDX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="enaZohmAnqyDvhY4NEDX-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="enaZohmAnqyDvhY4NEDX-6" parent="1" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" value="Best Practices &lt;br&gt;&amp;amp; Manuals" vertex="1">
+          <mxGeometry height="60" width="100" x="410" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="enaZohmAnqyDvhY4NEDX-16" edge="1" parent="1" source="enaZohmAnqyDvhY4NEDX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="enaZohmAnqyDvhY4NEDX-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="enaZohmAnqyDvhY4NEDX-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Define&amp;nbsp;&lt;br&gt;High Level Topics" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="enaZohmAnqyDvhY4NEDX-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Generate&amp;nbsp;&lt;div&gt;Prompt for Requirement&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
